@@ -89,4 +89,4 @@ Predicted prices of houses based on those weights for house with specific attrib
 ### Cache Simulator
 
 - L1 cache simulator
-- ./[file_name] <cache size> <associativity> <replace policy> <block size> <trace file>
+- ./[file_name] [cache size] [associativity] [replace policy] [block size] [trace file]
