@@ -6,11 +6,15 @@ C programming done for my computer architecture course (CS211) at Rutgers.
 
 Implemented linked list, hash table, binary search trees in C.
 
+---
+
 ### One Shot Learning
 
 Used linear algebra to train an algorithm with data about house attributes and prices.
 Calculated weight of each attribute (year built, etc.) on the house price using linear algebra.
 Predicted prices of houses based on those weights for house with specific attributes.
+
+---
 
 ### Bit Operations
 
@@ -27,6 +31,8 @@ Predicted prices of houses based on those weights for house with specific attrib
 #### Third
 
 - Return whether a bit string is a palindrome
+
+---
 
 ### Assembly Interpreter
 
@@ -77,3 +83,10 @@ Predicted prices of houses based on those weights for house with specific attrib
 
 - Note: x must be a register for read.
 - Note: All arguments to all instructions are separated by a single space.
+
+---
+
+### Cache Simulator
+
+- L1 cache simulator
+- ./[file_name] <cache size> <associativity> <replace policy> <block size> <trace file>
