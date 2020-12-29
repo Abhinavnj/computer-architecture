@@ -90,3 +90,8 @@ Predicted prices of houses based on those weights for house with specific attrib
 
 - L1 cache simulator
 - ./[file_name] [cache size] [associativity] [replace policy] [block size] [trace file]
+
+---
+
+### Circuit Simulator
+- Simulate circuits built using NOT, AND, OR, NAND, NOR, and XOR blocks.
